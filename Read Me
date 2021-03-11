@@ -1,0 +1,7 @@
+Search API's with following pattern 
+
+1. Employee details by Manager Id
+2. Employee Search Based on Manager Name
+3. Manager Name Search By Staring string of Employee Name
+4. Manager Name Search By Employee of the Name
+5. Manager Name Search By Ending string of Employee Name
